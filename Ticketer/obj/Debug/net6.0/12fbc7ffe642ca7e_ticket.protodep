@@ -1,3 +1,0 @@
-obj\Debug\net6.0\Protos/Ticket.cs \
-obj\Debug\net6.0\Protos/TicketGrpc.cs: C:/Users/Administrator/.nuget/packages/grpc.tools/2.43.0/build/native/include/google/protobuf/empty.proto\
- Protos/ticket.proto
